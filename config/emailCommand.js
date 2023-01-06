@@ -18,7 +18,7 @@ const createSendEmailCommand = (toAddress, fromAddress) => {
           /* required */
           Html: {
             Charset: "UTF-8",
-            Data: "<a href='www.google.com'>click here</a>",
+            Data: "<a href='https://github.com/Axitvadi'>click here to visit profile</a>",
           },
         //   Text: {
         //     Charset: "UTF-8",
